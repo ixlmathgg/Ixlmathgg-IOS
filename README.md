@@ -1,1 +1,3 @@
-click on the games.txt to play the games or ask me in class for the QR code
+copy the website and paste in into your browser
+
+stickmanhook: https://ixlmathgg.github.io/kitty
